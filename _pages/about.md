@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD student at the Università della Svizzera italiana (USI) in Lugano (Switzerland), where I work primarily on compilers for hardware accelerators and, more recently, on logic synthesis. My research focuses on developing scalable and high-quality compilation and optimization techniques for these domains. I was awarded a PhD Mobility grant from the Swiss National Science Foundation (SNSF) and spent a research period of 8 months at UCLA. Beyond my core work, I’m broadly interested in optimization problems, high-performance computing, and security.
+I’m a PhD student at the Università della Svizzera italiana (USI) in Lugano (Switzerland), where I work primarily on compilers for hardware accelerators and, more recently, on logic synthesis. 
+My research focuses on developing scalable and high-quality compilation and optimization techniques for these domains. I was awarded a PhD Mobility grant from the Swiss National Science Foundation (SNSF) and spent a research period of 8 months at UCLA. 
+Beyond my core work, I’m broadly interested in optimization problems, high-performance computing, and security.
+
+
 
 
