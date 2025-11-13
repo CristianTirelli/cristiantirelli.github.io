@@ -11,7 +11,7 @@ I’m a PhD student at the [Università della Svizzera italiana (USI)](https://w
 
 My research focuses on scalable and high-quality compilation and optimization techniques for these domains, with particular attention to mapping problems, structural representations of computation, and building tools that scale well without sacrificing performance. 
 
-I try to  combines formal methods, algorithm design, and low-level hardware reasoning to make specialized architectures more programmable and efficient. Beyond that, I’m also interested in optimization problems, high-performance computing, and security.
+I try to  combines formal methods, algorithm design, and architecture-level optimization to make specialized systems more programmable and efficient. Beyond that, I’m also interested in optimization problems, high-performance computing, and security.
 
 
 

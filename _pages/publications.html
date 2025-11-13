@@ -9,28 +9,44 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+## Publications
 
 
+### 2025
+- **C. Tirelli**, R. Otoni, and L. Pozzi.  
+  *Monomorphism-based CGRA Mapping via Space and Time Decoupling.*  
+  In **Proceedings of the 28th DATE Conference**, 2025, pp. 1–7.
+
+- **Y. Wang, C. Tirelli**, G. Ansaloni, L. Pozzi, and D. Atienza Alonso.  
+  *An MLIR-based Compilation Framework for Control Flow Management on CGRAs.*  
+  **Applied Reconfigurable Computing: Architectures, Tools, and Applications**, 2025.
+
+- **Y. Wang, C. Tirelli**, L. Orlandic, J. Sapriza, R. Rodríguez Álvarez, G. Ansaloni,  
+  L. Pozzi, and D. Atienza Alonso.  
+  *An MLIR-based Compilation Framework for CGRA Application Deployment.*  
+  In **Applied Reconfigurable Computing: Architectures, Tools, and Applications**, 2025.
+
+- M. Rezaalipour, M. Biasion, F. Costa, **C. Tirelli**, R. Otoni, L. Ferretti,  
+  G. A. Constantinides, and L. Pozzi.  
+  *Approximate Logic Synthesis via Iterative SMT-based Subcircuit Rewriting.*  
+  **IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD)**, 2025.
+
+### 2024
+- **C. Tirelli**, J. Sapriza, R. Rodríguez Álvarez, L. Ferretti, B. Denkinger, G. Ansaloni,  
+  J. M. Calero, D. Atienza, and L. Pozzi.  
+  *SAT-based Exact Modulo Scheduling Mapping for Resource-Constrained CGRAs.*  
+  **Journal on Emerging Technologies in Computing Systems**, 20(3), 2024.
+
+- **C. Tirelli** and L. Pozzi.  
+  *Mapping Code on Coarse Grained Reconfigurable Arrays Using a SAT Solver.*  
+  In **European Conference on Parallel Processing (Euro-Par)**, Springer, pp. 348–353, 2024.
+
+### 2023
+- **C. Tirelli**, L. Ferretti, and L. Pozzi.  
+  *SAT-MapIt: A SAT-based Modulo Scheduling Mapper for Coarse Grain Reconfigurable Architectures.*  
+  In **Proceedings of the 26th DATE Conference**, 2023, pp. 1–6.
+
+- **C. Tirelli**, L. Ferretti, and L. Pozzi.  
+  *SAT-MapIt: An Open Source Modulo Scheduling Mapper for Coarse Grain Reconfigurable Architectures.*  
+  In **Proceedings of the 20th ACM Computing Frontiers**, 2023, pp. 383–384.
 
