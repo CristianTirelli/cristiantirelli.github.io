@@ -14,7 +14,7 @@ I’m interested in developing compilation and optimization techniques for FPGAs
 A view of the lake in Lugano, where I’ve spent the past few years:
 
 
-<img src="/images/switzerland/lugano_lake_rnd1.png" alt="Lugano" style="width:70%; height:auto;">
+<img src="/images/switzerland/lugano_lake_rnd1.png" alt="Lugano" style="width:80%; height:auto;">
 
 
 ## News
