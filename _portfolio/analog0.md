@@ -1,12 +1,12 @@
 ---
-title: "Alps sunset"
-excerpt: "Golden hour above the ridge near Lugano."
+title: "Analog0"
+excerpt: "Joshua Tree National Park"
 portfolio_type: images
 header:
-  teaser: /images/analog/test.png
+  teaser: /images/analog/josh1.jpeg
 ---
 
-![Alps sunset](/images/analog/test.png)
+![josh1](/images/analog/josh1.jpeg)
 
-A longer description can go here (optional). You can write a couple of paragraphs if you want.
+Joshua Tree National Park - March 29, 2024, taken with Canon AF-7
 

@@ -1,12 +1,12 @@
 ---
-title: "Alps sunset"
-excerpt: "Golden hour above the ridge near Lugano."
+title: "Analog3"
+excerpt: "UCLA"
 portfolio_type: images
 header:
-  teaser: /images/analog/test.png
+  teaser: /images/analog/ucla2.jpeg
 ---
 
-![Alps sunset](/images/analog/test.png)
+![ucla2](/images/analog/ucla2.jpeg)
 
-A longer description can go here (optional). You can write a couple of paragraphs if you want.
+University of California Los Angeles - January 27, 2024, taken with Canon AF-7
 

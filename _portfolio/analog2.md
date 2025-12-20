@@ -1,12 +1,12 @@
 ---
-title: "Alps sunset"
-excerpt: "Golden hour above the ridge near Lugano."
+title: "Analog2"
+excerpt: "Los Angeles"
 portfolio_type: images
 header:
-  teaser: /images/analog/test.png
+  teaser: /images/analog/observatory1.jpeg
 ---
 
-![Alps sunset](/images/analog/test.png)
+![obs1](/images/analog/observatory1.jpeg)
 
-A longer description can go here (optional). You can write a couple of paragraphs if you want.
+View of Los Angeles from the Griffith Observatory - May 25, 2024, taken with Canon AF-7
 
