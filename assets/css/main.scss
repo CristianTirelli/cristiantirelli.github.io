@@ -41,3 +41,37 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+/* Only on /images/ */
+body.images-page .images-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 0.9rem;
+  align-items: start;
+}
+
+/* Tighten spacing */
+body.images-page .image-title {
+  margin: 0 0 0.15rem 0;
+}
+
+body.images-page .image-excerpt {
+  margin: 0 0 0.35rem 0;
+}
+
+/* Force all previews to the same size */
+body.images-page .image-thumb {
+  display: block;
+  width: 100%;
+  height: 180px;      /* <-- change this to what you want */
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+
+body.images-page .image-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;  /* crop to fill the box */
+  display: block;
+}
