@@ -1,5 +1,5 @@
 ---
-title: "Images"
+title: "Just some random pictures"
 permalink: /images/
 layout: single
 classes:
