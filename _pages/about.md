@@ -9,7 +9,7 @@ redirect_from:
 
 I’m a PhD student at the [Università della Svizzera italiana (USI)](https://www.usi.ch/en) in Lugano, where I work primarily on compilers for reconfigurable architectures and, more recently, on logic synthesis.
 
-I’m interested in developing compilation and optimization techniques for **FPGAs** and **CGRAs**, and I plan to work also on other kinds of accelerators and heterogeneous platforms.
+I’m interested in developing compilation and optimization techniques for **FPGAs** and **CGRAs**, and other kinds of accelerators and heterogeneous platforms.
 
 A view of the lake in Lugano, where I’ve spent the past few years:
 
@@ -20,4 +20,4 @@ A view of the lake in Lugano, where I’ve spent the past few years:
 ## News
 
 - **15-12-2025**: Awarded an SNSF Postdoc.Mobility grant.
-- **26-04-2023**: Awarded a PhD mobility grant.
+- **26-04-2023**: Awarded an SNSF PhD mobility grant.
