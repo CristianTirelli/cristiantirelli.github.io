@@ -2,9 +2,12 @@
 title: "Images"
 permalink: /images/
 layout: single
-classes: wide
+classes:
+  - wide
+  - images-page
 author_profile: true
 ---
+
 
 {% assign pics = site.portfolio | where: "portfolio_type", "images" | reverse %}
 
