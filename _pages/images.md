@@ -57,14 +57,33 @@ author_profile: true
   object-fit:cover;       /* crops nicely */
   display:block;
 }
+
+.images-grid .image-card{
+  position: relative;
+}
+
+/* full clickable layer */
+.images-grid .card-overlay{
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+/* keep content above overlay */
+.images-grid .image-card > *{
+  position: relative;
+  z-index: 2;
+}
 </style>
 
 {% assign pics = site.portfolio | where: "portfolio_type", "images" |  sort: "title" %}
 
 <div class="images-grid">
   {% for post in pics %}
-  
+
     <div class="archive__item image-card">
+
+      <a href="{{ post.url | relative_url }}" class="card-overlay" aria-label="{{ post.title }}"></a>
 
       <h2 class="archive__item-title image-title">
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -76,10 +95,11 @@ author_profile: true
 
       <a href="{{ post.url | relative_url }}" class="image-thumb">
         <img src="{{ post.header.teaser | relative_url }}"
-             alt="{{ post.title }}"
-             loading="lazy">
+            alt="{{ post.title }}"
+            loading="lazy">
       </a>
 
     </div>
+
   {% endfor %}
 </div>
