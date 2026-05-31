@@ -25,6 +25,19 @@ author_profile: true
   box-shadow: 0 1px 3px rgba(0,0,0,0.08);
 }
 
+.images-grid .image-card{
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 0.8rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.images-grid .image-card:hover{
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+
 /* tighter spacing */
 .images-grid .image-title{ margin: 0 0 0.15rem 0; }
 .images-grid .image-excerpt{ margin: 0 0 0.35rem 0; }
