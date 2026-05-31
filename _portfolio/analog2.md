@@ -8,5 +8,5 @@ header:
 
 ![obs1](/images/analog/observatory1.jpeg)
 
-View of Los Angeles from the Griffith Observatory - May 25, 2024, taken with Canon AF-7
+View of Los Angeles from the Griffith Observatory, California - May, 2024, taken with Canon AF-7
 

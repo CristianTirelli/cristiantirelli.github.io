@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD student at the [Università della Svizzera italiana (USI)](https://www.usi.ch/en) in Lugano, where I work primarily on compilers for reconfigurable architectures and, more recently, on logic synthesis.
+I am a Postdoctoral Research Fellow at the [University of California, San Diego (UCSD)](https://ucsd.edu/) in the [Kastner Research Group](http://kastner.ucsd.edu/). I recently completed my PhD at the [Università della Svizzera italiana (USI)](https://www.usi.ch/en) under the supervision of Prof. [Laura Pozzi](https://www.inf.usi.ch/faculty/pozzi/).
 
-I’m interested in developing compilation and optimization techniques for FPGAs, CGRAs, and other accelerators, with a focus on scalability, performance, and hardware-aware optimization.
+My research focuses on compilers and optimization techniques for hardware accelerators, with a particular emphasis on Coarse-Grained Reconfigurable Arrays (CGRAs) and FPGAs. I am interested in mapping problems, structural representations of computation, and balancing the trade-offs between compiler scalability and hardware performance. My work leverages formal methods, algorithm design, and architecture-level optimization to make specialized hardware more programmable and efficient.
+
 
 A view of the lake in Lugano, where I’ve spent the past few years:
 
@@ -21,6 +22,5 @@ A view of the lake in Lugano, where I’ve spent the past few years:
 ---
 
 ## News
-
 - **15-12-2025**: Awarded an SNSF Postdoc.Mobility grant.
 - **26-04-2023**: Awarded an SNSF PhD mobility grant.

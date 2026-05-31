@@ -8,5 +8,5 @@ header:
 
 ![josh1](/images/analog/josh1.jpeg)
 
-Joshua Tree National Park - March 29, 2024, taken with Canon AF-7
+Joshua Tree National Park, California - March, 2024, taken with Canon AF-7
 

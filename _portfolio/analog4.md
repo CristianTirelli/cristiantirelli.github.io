@@ -8,5 +8,5 @@ header:
 
 ![ucla2](/images/analog/ucla2.jpeg)
 
-University of California Los Angeles - January 27, 2024, taken with Canon AF-7
+University of California Los Angeles, California - January, 2024, taken with Canon AF-7
 

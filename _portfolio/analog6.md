@@ -8,5 +8,5 @@ header:
 
 ![west1](/images/analog/westwood1.jpeg)
 
-Fox Theater, Westwood Village - January 27, 2024, taken with Canon AF-7
+Fox Theater in Westwood Village, California - January, 2024, taken with Canon AF-7
 
