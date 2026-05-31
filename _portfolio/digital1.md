@@ -8,5 +8,5 @@ header:
 
 ![west1](/images/digital/hollywood1.jpeg)
 
-Hollywood, California - October 2023, taken with Iphone 14 pro max
+Hollywood, California - October 2023, taken with IPhone 14 Pro Max
 

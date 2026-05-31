@@ -8,5 +8,5 @@ header:
 
 ![west1](/images/digital/sardinia1.jpeg)
 
-Sardinia, Italy - September 2025, taken with Iphone 14 pro max
+Sardinia, Italy - September 2025, taken with IPhone 14 Pro Max
 

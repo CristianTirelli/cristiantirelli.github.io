@@ -8,5 +8,5 @@ header:
 
 ![west1](/images/digital/tijuana1.jpeg)
 
-Tijuana, Mexico - May 2024, taken with Iphone 14 pro max
+Tijuana, Mexico - May 2024, taken with IPhone 14 Pro Max
 
