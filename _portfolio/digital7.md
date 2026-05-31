@@ -8,5 +8,5 @@ header:
 
 ![west1](/images/digital/sandiego2.jpeg)
 
-San Diego, California - November 2023, taken with IPhone 14 Pro Max
+San Diego, California - November 2023, taken with iPhone 14 Pro Max
 

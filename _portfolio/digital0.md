@@ -8,5 +8,5 @@ header:
 
 ![west1](/images/digital/digital8.jpeg)
 
-Gran Via, Spain - August 2024, taken with IPhone 14 Pro Max
+Gran Via, Spain - August 2024, taken with iPhone 14 Pro Max
 

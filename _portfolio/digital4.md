@@ -8,5 +8,5 @@ header:
 
 ![west1](/images/digital/lugano2.jpeg)
 
-Lugano, Switzerland - October 2025, taken with IPhone 14 Pro Max
+Lugano, Switzerland - October 2025, taken with iPhone 14 Pro Max
 

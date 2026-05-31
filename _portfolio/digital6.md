@@ -8,5 +8,5 @@ header:
 
 ![west1](/images/digital/sandiego1.jpeg)
 
-San Diego, California - January 2024, taken with IPhone 14 Pro Max
+San Diego, California - January 2024, taken with iPhone 14 Pro Max
 

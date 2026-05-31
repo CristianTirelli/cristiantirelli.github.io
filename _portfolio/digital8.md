@@ -8,5 +8,5 @@ header:
 
 ![west1](/images/digital/sanfrancisco1.jpeg)
 
-San Francisco, California - April 2024, taken with IPhone 14 Pro Max
+San Francisco, California - April 2024, taken with iPhone 14 Pro Max
 

@@ -8,5 +8,5 @@ header:
 
 ![west1](/images/digital/santamonica1.jpeg)
 
-Santa Monica, California - October 2023, taken with IPhone 14 Pro Max
+Santa Monica, California - October 2023, taken with iPhone 14 Pro Max
 

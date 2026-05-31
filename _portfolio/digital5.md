@@ -8,5 +8,5 @@ header:
 
 ![west1](/images/digital/montebre1.jpeg)
 
-Monte Brè, Switzerland - July 2024, taken with IPhone 14 Pro Max
+Monte Brè, Switzerland - July 2024, taken with iPhone 14 Pro Max
 
