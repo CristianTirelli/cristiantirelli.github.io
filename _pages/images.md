@@ -58,32 +58,38 @@ author_profile: true
   display:block;
 }
 
+.images-grid .image-card-link{
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+/* your existing card style goes here */
 .images-grid .image-card{
-  position: relative;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 0.8rem;
+  background: #fff;
+  height: 100%;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
-/* full-card clickable layer */
-.images-grid .card-link{
-  position: absolute;
-  inset: 0;
-  z-index: 1;
+.images-grid .image-card-link:hover .image-card{
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
 }
-
-/* keep actual content above the overlay */
-.images-grid .image-card > *{
-  position: relative;
-  z-index: 2;
-}
-
 </style>
 
 {% assign pics = site.portfolio | where: "portfolio_type", "images" |  sort: "title" %}
 
-  <div class="images-grid">
-    {% for post in pics %}
-    <div class="archive__item image-card">
+<div class="images-grid">
 
-    <a href="{{ post.url | relative_url }}" class="card-link" aria-label="{{ post.title }}"></a>
+  
+    {% for post in pics %}
+
+<a href="{{ post.url | relative_url }}" class="image-card-link">
+
+  <div class="archive__item image-card">
 
     <h2 class="archive__item-title image-title">
       {{ post.title }}
@@ -93,12 +99,16 @@ author_profile: true
       <p class="archive__item-excerpt image-excerpt">{{ post.excerpt }}</p>
     {% endif %}
 
-    <a href="{{ post.url | relative_url }}" class="image-thumb">
+    <div class="image-thumb">
       <img src="{{ post.header.teaser | relative_url }}"
-          alt="{{ post.title }}"
-          loading="lazy">
-    </a>
+           alt="{{ post.title }}"
+           loading="lazy">
+    </div>
 
   </div>
+
+</a>
+
+{% endfor %}
   {% endfor %}
 </div>
