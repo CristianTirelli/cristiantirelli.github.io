@@ -17,6 +17,16 @@ author_profile: true
   align-items: start;
 }
 
+/* 1. Remove underline from the title by default and on hover */
+.images-grid .image-card .image-title {
+  text-decoration: none;
+}
+
+/* 2. Ensure it stays gone when the entire card is hovered */
+.images-grid .image-card:hover .image-title {
+  text-decoration: none;
+}
+
 /* Card styling & hover effects */
 .images-grid .image-card {
   position: relative; /* Required for the overlay */
