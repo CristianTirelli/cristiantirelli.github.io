@@ -57,58 +57,29 @@ author_profile: true
   object-fit:cover;       /* crops nicely */
   display:block;
 }
-
-.images-grid .image-card-link{
-  text-decoration: none;
-  color: inherit;
-  display: block;
-}
-
-/* your existing card style goes here */
-.images-grid .image-card{
-  border: 1px solid #ddd;
-  border-radius: 12px;
-  padding: 0.8rem;
-  background: #fff;
-  height: 100%;
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
-}
-
-.images-grid .image-card-link:hover .image-card{
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
-}
 </style>
 
 {% assign pics = site.portfolio | where: "portfolio_type", "images" |  sort: "title" %}
 
 <div class="images-grid">
-
+  {% for post in pics %}
   
-    {% for post in pics %}
+    <div class="archive__item image-card">
 
-<a href="{{ post.url | relative_url }}" class="image-card-link">
+      <h2 class="archive__item-title image-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
 
-  <div class="archive__item image-card">
+      {% if post.excerpt %}
+        <p class="archive__item-excerpt image-excerpt">{{ post.excerpt }}</p>
+      {% endif %}
 
-    <h2 class="archive__item-title image-title">
-      {{ post.title }}
-    </h2>
+      <a href="{{ post.url | relative_url }}" class="image-thumb">
+        <img src="{{ post.header.teaser | relative_url }}"
+             alt="{{ post.title }}"
+             loading="lazy">
+      </a>
 
-    {% if post.excerpt %}
-      <p class="archive__item-excerpt image-excerpt">{{ post.excerpt }}</p>
-    {% endif %}
-
-    <div class="image-thumb">
-      <img src="{{ post.header.teaser | relative_url }}"
-           alt="{{ post.title }}"
-           loading="lazy">
     </div>
-
-  </div>
-
-</a>
-
-{% endfor %}
   {% endfor %}
 </div>
