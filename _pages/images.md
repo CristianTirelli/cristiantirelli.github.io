@@ -38,7 +38,7 @@ author_profile: true
 }
 </style>
 
-{% assign pics = site.portfolio | where: "portfolio_type", "images" | reverse %}
+{% assign pics = site.portfolio | where: "portfolio_type", "images" |  sort: "title" %}
 
 <div class="images-grid">
   {% for post in pics %}
