@@ -1,6 +1,6 @@
 ---
-title: "Digital8"
-excerpt: "Sanfrancisco"
+title: "Digital08"
+excerpt: "San Francisco"
 portfolio_type: images
 header:
   teaser: /images/digital/sanfrancisco1.jpeg

@@ -26,11 +26,11 @@ author:
   avatar           : "profile_pic.png"
   name             : "Cristian Tirelli"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student"
-  location         : "Lugano, CH"
-  employer         : "USI Lugano"
+  bio              : "Postdoctoral Fellow"
+  location         : "San Diego, USA"
+  employer         : "UCSD"
   uri              : # URL
-  email            : "tirelc@usi.ch" 
+  email            : "" 
 
   # Academic websites
   academia         : # URL

@@ -1,5 +1,5 @@
 ---
-title: "Analog6"
+title: "Analog06"
 excerpt: "Westwood Village"
 portfolio_type: images
 header:

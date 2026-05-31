@@ -1,5 +1,5 @@
 ---
-title: "Analog2"
+title: "Analog02"
 excerpt: "Los Angeles"
 portfolio_type: images
 header:

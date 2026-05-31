@@ -1,6 +1,6 @@
 ---
-title: "Digital7"
-excerpt: "Sandiego"
+title: "Digital07"
+excerpt: "San Diego"
 portfolio_type: images
 header:
   teaser: /images/digital/sandiego2.jpeg

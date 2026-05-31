@@ -1,5 +1,5 @@
 ---
-title: "Analog0"
+title: "Analog00"
 excerpt: "Joshua Tree National Park"
 portfolio_type: images
 header:

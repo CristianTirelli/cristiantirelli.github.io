@@ -1,6 +1,6 @@
 ---
-title: "Digital5"
-excerpt: "Montebre"
+title: "Digital05"
+excerpt: "Monte Brè"
 portfolio_type: images
 header:
   teaser: /images/digital/montebre1.jpeg

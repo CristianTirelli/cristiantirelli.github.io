@@ -1,5 +1,5 @@
 ---
-title: "Digital4"
+title: "Digital04"
 excerpt: "Lugano"
 portfolio_type: images
 header:

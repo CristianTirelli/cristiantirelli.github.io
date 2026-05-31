@@ -1,6 +1,6 @@
 ---
-title: "Digital9"
-excerpt: "Santamonica"
+title: "Digital09"
+excerpt: "Santa Monica"
 portfolio_type: images
 header:
   teaser: /images/digital/santamonica1.jpeg

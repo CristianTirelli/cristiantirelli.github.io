@@ -1,5 +1,5 @@
 ---
-title: "Digital2"
+title: "Digital02"
 excerpt: "Hollywood"
 portfolio_type: images
 header:

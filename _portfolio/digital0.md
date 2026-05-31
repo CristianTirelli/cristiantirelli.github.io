@@ -1,5 +1,5 @@
 ---
-title: "Digital0"
+title: "Digital00"
 excerpt: "Gran Via"
 portfolio_type: images
 header:
