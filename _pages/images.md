@@ -33,10 +33,9 @@ author_profile: true
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
-images-grid .image-card:hover{
-  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+.images-grid .image-card:hover{
   transform: translateY(-2px);
-  transition: 0.15s ease;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
 }
 
 /* tighter spacing */
