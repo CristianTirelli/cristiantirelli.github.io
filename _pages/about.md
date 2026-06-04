@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Fellow at the [University of California, San Diego (UCSD)](https://ucsd.edu/) in the [Kastner Research Group](http://kastner.ucsd.edu/). I recently completed my PhD at the [Università della Svizzera italiana (USI)](https://www.usi.ch/en) under the supervision of Prof. [Laura Pozzi](https://www.inf.usi.ch/faculty/pozzi/).
+I am a Postdoctoral Research Fellow at the [University of California, San Diego (UCSD)](https://ucsd.edu/) in the [Kastner Research Group](http://kastner.ucsd.edu/). I recently completed my PhD at the [Università della Svizzera italiana (USI)](https://www.usi.ch/en) under the supervision of Prof. [Laura Pozzi](https://www.inf.usi.ch/faculty/pozzi/). During my PhD, I also spent time as a visiting researcher at the [University of California, Los Angeles (UCLA)](https://ucla.edu/) in the [VAST Laboratory](https://vast.cs.ucla.edu/).
 
 My research focuses on compilers and optimization techniques for hardware accelerators, with emphasis on Coarse-Grained Reconfigurable Arrays (CGRAs) and FPGAs. I am interested in mapping problems, structural representations of computation, and balancing the trade-offs between compiler scalability and hardware performance. My work leverages formal methods, algorithm design, and architecture-level optimization to make specialized hardware more programmable and efficient.
 
